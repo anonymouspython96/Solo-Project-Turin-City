@@ -127,16 +127,10 @@ li {
 
 .anchors {
     text-decoration: none;
+    width: 80px;
     padding: 16px 32px;
-    border: 2px solid var(--red--color);
     color: var(--dark--blue);
-}
-
-#coding-profile {
-    margin-top: 2rem;
-}
-i {
-    padding-left: 0.5rem;
+    border: 2px solid var(--red--color);
 }
 
 .anchors:hover {
