@@ -106,35 +106,3 @@ footer>article {
 footer>article>img {
     object-position: center center;
 }
-
-nav {
-    padding-top: 2.5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-ul {
-    padding: 2rem;
-    display: flex;
-    gap: 3rem;
-}
-
-li {
-    list-style: none;
-}
-
-.anchors {
-    text-decoration: none;
-    width: 80px;
-    padding: 16px 32px;
-    color: var(--dark--blue);
-    border: 2px solid var(--red--color);
-}
-
-.anchors:hover {
-    background-color: var(--red--color);
-    border: 2px solid var(--acqua--color);
-    color: var(--acqua--color);
-}
