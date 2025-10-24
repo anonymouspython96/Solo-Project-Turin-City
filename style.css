@@ -106,3 +106,7 @@ footer>article {
 footer>article>img {
     object-position: center center;
 }
+
+.foot-p:hover {
+    color: var(--red--color);
+}
